@@ -23,7 +23,7 @@ NUM_TESTS=11
 # x, y, z are test indexes
 # Each test with an index less or equal to x gets a points.
 # Each test with an index less or equal to y gets b points.
-POINTS_TEST="2=10,6=5,9=15,12=10,15=5"
+POINTS_TEST="4=15,6=5,9=15,11=10,12=15"
 
 # Total score
 SCORE_TESTS=0
@@ -106,7 +106,7 @@ function show_total {
 	echo "[NOTA FINALA]"
 	
 	echo
-	printf "NOTA FINALA ..................................... %3sp/135p\n" $(($SCORE_TESTS))
+	printf "NOTA FINALA ..................................... %3sp/150p\n" $(($SCORE_TESTS))
 	echo	
 }
 
