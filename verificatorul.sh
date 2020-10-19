@@ -3,9 +3,8 @@
 #------------------------------------------------------------------------------
 # 
 #   CHECKER Tema 2 POO, 2020-2021
-#	    Ceva tema idk
 #
-#   Author: Niste prosti
+#   Authors: Barac Ilie-Constantin (imi pare rau), Craioveanu Sergiu-Ionut (el m-a pus) 
 #
 #------------------------------------------------------------------------------
 
@@ -17,7 +16,7 @@ FILE_TEST_DATE_1="data/test%d/date.in"
 FILE_TEST_INDEX="%d"
 FILE_TEST_REF="ref/ref%d.out"
 FILE_TEST_OUT="out/out%d.out"
-NUM_TESTS=11
+NUM_TESTS=12
 
 # Format: "x=a,y=b,z=c..."
 # x, y, z are test indexes
