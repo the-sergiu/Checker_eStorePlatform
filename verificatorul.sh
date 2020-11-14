@@ -2,9 +2,10 @@
 
 #------------------------------------------------------------------------------
 # 
-#   CHECKER Tema 2 POO, 2020-2021
+#   CHECKER eStore Platform, 2020-2021 and beyond
 #
-#   Authors: Barac Ilie-Constantin (imi pare rau), Craioveanu Sergiu-Ionut (el m-a pus) 
+#   Authors: Barac Ilie-Constantin (imi pare rau), 
+#			 Craioveanu Sergiu-Ionut (el m-a pus) 
 #
 #------------------------------------------------------------------------------
 
