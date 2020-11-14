@@ -10,7 +10,7 @@
 #------------------------------------------------------------------------------
 
 # Exec name
-EXEC_NAME=TemaPOO
+EXEC_NAME=eStore
 
 # Teste Normale
 FILE_TEST_DATE_1="data/test%d/date.in"
